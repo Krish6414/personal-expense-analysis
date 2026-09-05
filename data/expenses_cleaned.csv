@@ -1,0 +1,501 @@
+Transaction_ID,Date,Category,Description,Payment_Method,Amount,Type,Month
+TXN0001,2026-01-01,Salary,Monthly Salary,Bank Transfer,55000.0,Income,2026-01
+TXN0033,2026-01-01,Transport,Bus,Cash,110.69,Expense,2026-01
+TXN0040,2026-01-02,Other,Donation,Credit Card,682.48,Expense,2026-01
+TXN0056,2026-01-02,Shopping,Clothes,UPI,539.39,Expense,2026-01
+TXN0041,2026-01-03,Transport,Metro,UPI,343.44,Expense,2026-01
+TXN0050,2026-01-03,Education,Books,Credit Card,468.44,Expense,2026-01
+TXN0012,2026-01-03,Bills,Electricity,Cash,98.5,Expense,2026-01
+TXN0049,2026-01-03,Entertainment,Games,UPI,434.63,Expense,2026-01
+TXN0003,2026-01-03,Food,Restaurant,Bank Transfer,1782.13,Expense,2026-01
+TXN0004,2026-01-03,Entertainment,Movies,UPI,779.57,Expense,2026-01
+TXN0009,2026-01-04,Transport,Bus,Debit Card,1190.74,Expense,2026-01
+TXN0054,2026-01-04,Bills,Water Bill,Credit Card,1660.75,Expense,2026-01
+TXN0032,2026-01-04,Rent,House Rent,Debit Card,553.76,Expense,2026-01
+TXN0060,2026-01-04,Travel,Vacation,Bank Transfer,98.5,Expense,2026-01
+TXN0028,2026-01-05,Food,Restaurant,UPI,131.87,Expense,2026-01
+TXN0036,2026-01-05,Healthcare,Pharmacy,Credit Card,1995.57,Expense,2026-01
+TXN0019,2026-01-06,Healthcare,Pharmacy,Credit Card,440.44,Expense,2026-01
+TXN0043,2026-01-06,Food,Food Delivery,Bank Transfer,404.69,Expense,2026-01
+TXN0005,2026-01-07,Food,Restaurant,Bank Transfer,540.5,Expense,2026-01
+TXN0013,2026-01-07,Entertainment,OTT Subscription,Bank Transfer,2074.27,Expense,2026-01
+TXN0020,2026-01-08,Bills,Mobile Bill,Bank Transfer,334.82,Expense,2026-01
+TXN0047,2026-01-08,Rent,House Rent,UPI,643.11,Expense,2026-01
+TXN0057,2026-01-08,Shopping,Electronics,UPI,1509.38,Expense,2026-01
+TXN0026,2026-01-08,Rent,House Rent,Debit Card,360.52,Expense,2026-01
+TXN0002,2026-01-08,Food,Coffee,Credit Card,277.83,Expense,2026-01
+TXN0022,2026-01-09,Food,Coffee,Cash,560.3,Expense,2026-01
+TXN0024,2026-01-09,Bills,Water Bill,Credit Card,204.56,Expense,2026-01
+TXN0038,2026-01-11,Rent,House Rent,Bank Transfer,215.08,Expense,2026-01
+TXN0008,2026-01-11,Rent,House Rent,Cash,98.5,Expense,2026-01
+TXN0017,2026-01-12,Rent,House Rent,Debit Card,119.96,Expense,2026-01
+TXN0045,2026-01-13,Food,Groceries,Debit Card,1421.16,Expense,2026-01
+TXN0064,2026-01-13,Food,Food Delivery,UPI,1044.7,Expense,2026-01
+TXN0058,2026-01-14,Food,Food Delivery,Credit Card,98.5,Expense,2026-01
+TXN0055,2026-01-14,Food,Food Delivery,Debit Card,1333.38,Expense,2026-01
+TXN0025,2026-01-14,Food,Coffee,Bank Transfer,270.14,Expense,2026-01
+TXN0062,2026-01-14,Rent,House Rent,Credit Card,291.36,Expense,2026-01
+TXN0006,2026-01-14,Education,Study Material,Bank Transfer,100.43,Expense,2026-01
+TXN0065,2026-01-14,Transport,Fuel,Debit Card,261.23,Expense,2026-01
+TXN0030,2026-01-15,Food,Food Delivery,Bank Transfer,531.36,Expense,2026-01
+TXN0046,2026-01-15,Other,Miscellaneous,Debit Card,177.29,Expense,2026-01
+TXN0027,2026-01-16,Other,Gift,Bank Transfer,910.53,Expense,2026-01
+TXN0034,2026-01-17,Other,Miscellaneous,Debit Card,98.5,Expense,2026-01
+TXN0051,2026-01-17,Travel,Train,UPI,121.01,Expense,2026-01
+TXN0052,2026-01-18,Transport,Fuel,Credit Card,2067.9,Expense,2026-01
+TXN0048,2026-01-19,Transport,Auto,UPI,221.16,Expense,2026-01
+TXN0029,2026-01-20,Healthcare,Pharmacy,Cash,427.47,Expense,2026-01
+TXN0018,2026-01-20,Food,Coffee,UPI,214.77,Expense,2026-01
+TXN0023,2026-01-21,Food,Coffee,Credit Card,98.5,Expense,2026-01
+TXN0016,2026-01-21,Food,Coffee,Cash,118.81,Expense,2026-01
+TXN0031,2026-01-22,Bills,Electricity,UPI,98.5,Expense,2026-01
+TXN0066,2026-01-22,Education,Study Material,Bank Transfer,195.26,Expense,2026-01
+TXN0011,2026-01-24,Shopping,Electronics,UPI,728.96,Expense,2026-01
+TXN0042,2026-01-25,Rent,House Rent,Bank Transfer,98.5,Expense,2026-01
+TXN0014,2026-01-25,Education,Books,Credit Card,1057.65,Expense,2026-01
+TXN0053,2026-01-26,Food,Food Delivery,Credit Card,883.48,Expense,2026-01
+TXN0007,2026-01-26,Transport,Metro,Debit Card,100.41,Expense,2026-01
+TXN0035,2026-01-27,Rent,House Rent,Debit Card,1760.56,Expense,2026-01
+TXN0021,2026-01-27,Education,Books,Credit Card,203.8,Expense,2026-01
+TXN0015,2026-01-28,Transport,Uber,Credit Card,141.31,Expense,2026-01
+TXN0010,2026-01-28,Food,Restaurant,Debit Card,544.14,Expense,2026-01
+TXN0059,2026-01-28,Food,Food Delivery,Credit Card,129.15,Expense,2026-01
+TXN0063,2026-01-29,Bills,Internet,Cash,187.42,Expense,2026-01
+TXN0039,2026-01-29,Bills,Electricity,Debit Card,98.5,Expense,2026-01
+TXN0061,2026-01-30,Food,Restaurant,UPI,232.99,Expense,2026-01
+TXN0044,2026-01-31,Transport,Metro,Cash,98.5,Expense,2026-01
+TXN0037,2026-01-31,Shopping,Shoes,Bank Transfer,978.26,Expense,2026-01
+TXN0092,2026-02-01,Rent,House Rent,Bank Transfer,366.0,Expense,2026-02
+TXN0105,2026-02-01,Rent,House Rent,Credit Card,216.14,Expense,2026-02
+TXN0113,2026-02-01,Food,Restaurant,Cash,195.95,Expense,2026-02
+TXN0090,2026-02-01,Shopping,Electronics,UPI,581.23,Expense,2026-02
+TXN0067,2026-02-01,Salary,Monthly Salary,Bank Transfer,55000.0,Income,2026-02
+TXN0093,2026-02-02,Food,Groceries,Bank Transfer,98.21,Expense,2026-02
+TXN0068,2026-02-02,Food,Coffee,Credit Card,448.09,Expense,2026-02
+TXN0069,2026-02-02,Entertainment,Movies,Debit Card,98.21,Expense,2026-02
+TXN0127,2026-02-02,Rent,House Rent,UPI,148.15,Expense,2026-02
+TXN0072,2026-02-03,Rent,House Rent,Bank Transfer,2482.19,Expense,2026-02
+TXN0071,2026-02-03,Bills,Electricity,Bank Transfer,98.21,Expense,2026-02
+TXN0080,2026-02-03,Healthcare,Pharmacy,UPI,98.21,Expense,2026-02
+TXN0073,2026-02-04,Education,Books,Cash,847.31,Expense,2026-02
+TXN0110,2026-02-04,Other,Donation,UPI,806.8,Expense,2026-02
+TXN0108,2026-02-04,Bills,Mobile Bill,UPI,164.22,Expense,2026-02
+TXN0094,2026-02-05,Rent,House Rent,Cash,715.38,Expense,2026-02
+TXN0086,2026-02-05,Food,Restaurant,Bank Transfer,98.21,Expense,2026-02
+TXN0091,2026-02-06,Transport,Bus,Debit Card,1249.79,Expense,2026-02
+TXN0099,2026-02-06,Rent,House Rent,UPI,423.62,Expense,2026-02
+TXN0076,2026-02-07,Entertainment,OTT Subscription,Debit Card,967.81,Expense,2026-02
+TXN0103,2026-02-07,Food,Food Delivery,Credit Card,98.21,Expense,2026-02
+TXN0118,2026-02-07,Education,Study Material,Credit Card,1174.92,Expense,2026-02
+TXN0126,2026-02-08,Other,Gift,Debit Card,98.21,Expense,2026-02
+TXN0101,2026-02-09,Healthcare,Pharmacy,Credit Card,98.21,Expense,2026-02
+TXN0106,2026-02-09,Healthcare,Doctor Visit,Debit Card,406.87,Expense,2026-02
+TXN0085,2026-02-09,Other,Gift,Credit Card,230.12,Expense,2026-02
+TXN0077,2026-02-09,Healthcare,Doctor Visit,Credit Card,702.77,Expense,2026-02
+TXN0082,2026-02-10,Rent,House Rent,Debit Card,98.21,Expense,2026-02
+TXN0104,2026-02-10,Rent,House Rent,Debit Card,579.42,Expense,2026-02
+TXN0124,2026-02-10,Rent,House Rent,UPI,1296.75,Expense,2026-02
+TXN0084,2026-02-10,Healthcare,Medicine,Bank Transfer,559.13,Expense,2026-02
+TXN0078,2026-02-11,Shopping,Electronics,Cash,747.76,Expense,2026-02
+TXN0115,2026-02-11,Food,Coffee,Bank Transfer,1520.51,Expense,2026-02
+TXN0095,2026-02-12,Food,Coffee,UPI,819.19,Expense,2026-02
+TXN0096,2026-02-12,Food,Groceries,UPI,471.85,Expense,2026-02
+TXN0081,2026-02-12,Bills,Mobile Bill,Credit Card,254.22,Expense,2026-02
+TXN0117,2026-02-13,Transport,Fuel,Debit Card,574.71,Expense,2026-02
+TXN0111,2026-02-14,Entertainment,OTT Subscription,Debit Card,148.79,Expense,2026-02
+TXN0114,2026-02-14,Bills,Internet,Debit Card,100.69,Expense,2026-02
+TXN0121,2026-02-14,Food,Coffee,Credit Card,1277.6,Expense,2026-02
+TXN0079,2026-02-15,Travel,Flight,UPI,844.86,Expense,2026-02
+TXN0122,2026-02-15,Rent,House Rent,Cash,443.9,Expense,2026-02
+TXN0088,2026-02-16,Shopping,Electronics,Bank Transfer,225.25,Expense,2026-02
+TXN0123,2026-02-16,Bills,Internet,Bank Transfer,943.45,Expense,2026-02
+TXN0116,2026-02-17,Healthcare,Medicine,Debit Card,945.47,Expense,2026-02
+TXN0109,2026-02-19,Rent,House Rent,Credit Card,302.55,Expense,2026-02
+TXN0112,2026-02-19,Entertainment,Movies,Cash,98.21,Expense,2026-02
+TXN0074,2026-02-19,Other,Miscellaneous,Credit Card,126.88,Expense,2026-02
+TXN0119,2026-02-20,Shopping,Accessories,Credit Card,932.35,Expense,2026-02
+TXN0129,2026-02-21,Rent,House Rent,Cash,975.79,Expense,2026-02
+TXN0089,2026-02-21,Transport,Uber,UPI,749.03,Expense,2026-02
+TXN0107,2026-02-21,Rent,House Rent,Debit Card,1363.76,Expense,2026-02
+TXN0075,2026-02-22,Entertainment,Movies,Cash,98.21,Expense,2026-02
+TXN0087,2026-02-23,Transport,Metro,Credit Card,213.33,Expense,2026-02
+TXN0097,2026-02-24,Rent,House Rent,Bank Transfer,844.11,Expense,2026-02
+TXN0098,2026-02-26,Food,Groceries,Credit Card,389.91,Expense,2026-02
+TXN0100,2026-02-26,Rent,House Rent,Cash,319.46,Expense,2026-02
+TXN0083,2026-02-26,Food,Coffee,Bank Transfer,1138.84,Expense,2026-02
+TXN0125,2026-02-27,Bills,Mobile Bill,UPI,219.19,Expense,2026-02
+TXN0120,2026-02-27,Entertainment,Sports,Bank Transfer,118.26,Expense,2026-02
+TXN0128,2026-02-28,Transport,Fuel,Bank Transfer,319.03,Expense,2026-02
+TXN0070,2026-02-28,Food,Food Delivery,Bank Transfer,928.06,Expense,2026-02
+TXN0102,2026-02-28,Food,Restaurant,Cash,98.21,Expense,2026-02
+TXN0130,2026-03-01,Salary,Monthly Salary,Bank Transfer,56000.0,Income,2026-03
+TXN0185,2026-03-01,Rent,House Rent,Bank Transfer,98.62,Expense,2026-03
+TXN0182,2026-03-01,Entertainment,Sports,Debit Card,1760.7,Expense,2026-03
+TXN0161,2026-03-02,Food,Restaurant,Bank Transfer,914.61,Expense,2026-03
+TXN0173,2026-03-03,Food,Food Delivery,Debit Card,570.1,Expense,2026-03
+TXN0141,2026-03-03,Healthcare,Doctor Visit,Cash,774.41,Expense,2026-03
+TXN0194,2026-03-04,Food,Groceries,Debit Card,98.62,Expense,2026-03
+TXN0164,2026-03-05,Transport,Uber,Bank Transfer,292.47,Expense,2026-03
+TXN0156,2026-03-05,Healthcare,Medicine,Cash,99.84,Expense,2026-03
+TXN0143,2026-03-05,Transport,Metro,UPI,2275.74,Expense,2026-03
+TXN0146,2026-03-07,Entertainment,Sports,UPI,438.63,Expense,2026-03
+TXN0193,2026-03-08,Bills,Mobile Bill,Debit Card,176.61,Expense,2026-03
+TXN0189,2026-03-08,Rent,House Rent,Debit Card,688.1,Expense,2026-03
+TXN0186,2026-03-08,Bills,Internet,UPI,1649.62,Expense,2026-03
+TXN0151,2026-03-08,Rent,House Rent,Cash,445.55,Expense,2026-03
+TXN0157,2026-03-09,Rent,House Rent,UPI,428.81,Expense,2026-03
+TXN0184,2026-03-09,Food,Coffee,Debit Card,266.07,Expense,2026-03
+TXN0180,2026-03-09,Transport,Bus,UPI,748.98,Expense,2026-03
+TXN0179,2026-03-09,Bills,Water Bill,Bank Transfer,122.22,Expense,2026-03
+TXN0158,2026-03-11,Shopping,Shoes,Cash,2707.08,Expense,2026-03
+TXN0145,2026-03-11,Food,Food Delivery,Cash,185.02,Expense,2026-03
+TXN0142,2026-03-11,Education,Books,Debit Card,288.29,Expense,2026-03
+TXN0152,2026-03-13,Transport,Fuel,UPI,98.62,Expense,2026-03
+TXN0131,2026-03-13,Food,Food Delivery,Cash,1257.43,Expense,2026-03
+TXN0175,2026-03-14,Shopping,Accessories,UPI,98.62,Expense,2026-03
+TXN0133,2026-03-15,Shopping,Shoes,Bank Transfer,455.99,Expense,2026-03
+TXN0134,2026-03-15,Food,Groceries,UPI,344.62,Expense,2026-03
+TXN0188,2026-03-15,Transport,Fuel,Cash,190.29,Expense,2026-03
+TXN0140,2026-03-16,Transport,Auto,Bank Transfer,466.56,Expense,2026-03
+TXN0183,2026-03-16,Bills,Mobile Bill,Credit Card,98.62,Expense,2026-03
+TXN0148,2026-03-16,Education,Study Material,Cash,213.84,Expense,2026-03
+TXN0191,2026-03-17,Entertainment,Sports,Bank Transfer,516.75,Expense,2026-03
+TXN0154,2026-03-18,Bills,Internet,Bank Transfer,1523.75,Expense,2026-03
+TXN0135,2026-03-18,Food,Food Delivery,Bank Transfer,160.21,Expense,2026-03
+TXN0181,2026-03-19,Rent,House Rent,Cash,311.89,Expense,2026-03
+TXN0155,2026-03-19,Food,Food Delivery,Bank Transfer,174.68,Expense,2026-03
+TXN0165,2026-03-19,Transport,Fuel,UPI,638.18,Expense,2026-03
+TXN0162,2026-03-21,Other,Donation,Credit Card,173.07,Expense,2026-03
+TXN0190,2026-03-22,Shopping,Shoes,Debit Card,1084.03,Expense,2026-03
+TXN0170,2026-03-23,Education,Books,Bank Transfer,246.73,Expense,2026-03
+TXN0176,2026-03-23,Other,Miscellaneous,Cash,457.74,Expense,2026-03
+TXN0192,2026-03-23,Shopping,Electronics,Debit Card,481.12,Expense,2026-03
+TXN0171,2026-03-23,Rent,House Rent,UPI,131.67,Expense,2026-03
+TXN0144,2026-03-23,Food,Food Delivery,Credit Card,2093.45,Expense,2026-03
+TXN0150,2026-03-24,Shopping,Accessories,Bank Transfer,599.9,Expense,2026-03
+TXN0138,2026-03-24,Travel,Vacation,Credit Card,1826.26,Expense,2026-03
+TXN0187,2026-03-25,Rent,House Rent,Bank Transfer,1338.43,Expense,2026-03
+TXN0132,2026-03-25,Transport,Uber,UPI,98.62,Expense,2026-03
+TXN0178,2026-03-25,Healthcare,Pharmacy,Bank Transfer,660.9,Expense,2026-03
+TXN0166,2026-03-25,Other,Donation,Debit Card,640.3,Expense,2026-03
+TXN0159,2026-03-25,Transport,Fuel,Debit Card,176.78,Expense,2026-03
+TXN0139,2026-03-25,Rent,House Rent,Debit Card,249.01,Expense,2026-03
+TXN0149,2026-03-25,Food,Coffee,Debit Card,98.62,Expense,2026-03
+TXN0172,2026-03-26,Rent,House Rent,Bank Transfer,98.62,Expense,2026-03
+TXN0160,2026-03-27,Other,Donation,Debit Card,711.31,Expense,2026-03
+TXN0136,2026-03-27,Entertainment,Sports,Bank Transfer,98.62,Expense,2026-03
+TXN0137,2026-03-27,Education,Study Material,Cash,262.74,Expense,2026-03
+TXN0153,2026-03-27,Transport,Fuel,Credit Card,208.34,Expense,2026-03
+TXN0174,2026-03-28,Bills,Mobile Bill,UPI,721.96,Expense,2026-03
+TXN0168,2026-03-30,Transport,Metro,UPI,98.62,Expense,2026-03
+TXN0169,2026-03-31,Transport,Fuel,Cash,1150.47,Expense,2026-03
+TXN0167,2026-03-31,Shopping,Clothes,Credit Card,489.48,Expense,2026-03
+TXN0163,2026-03-31,Food,Restaurant,UPI,830.97,Expense,2026-03
+TXN0147,2026-03-31,Rent,House Rent,Bank Transfer,228.31,Expense,2026-03
+TXN0177,2026-03-31,Food,Groceries,Bank Transfer,163.82,Expense,2026-03
+TXN0195,2026-04-01,Salary,Monthly Salary,Bank Transfer,56000.0,Income,2026-04
+TXN0258,2026-04-02,Rent,House Rent,Cash,187.12,Expense,2026-04
+TXN0217,2026-04-02,Education,Online Course,Debit Card,518.17,Expense,2026-04
+TXN0235,2026-04-03,Rent,House Rent,Cash,777.58,Expense,2026-04
+TXN0225,2026-04-03,Bills,Water Bill,Cash,526.21,Expense,2026-04
+TXN0218,2026-04-03,Transport,Auto,Cash,124.68,Expense,2026-04
+TXN0220,2026-04-04,Rent,House Rent,Cash,132.96,Expense,2026-04
+TXN0202,2026-04-04,Education,Books,Cash,1116.47,Expense,2026-04
+TXN0244,2026-04-04,Other,Gift,Cash,98.44,Expense,2026-04
+TXN0241,2026-04-04,Travel,Vacation,Cash,161.81,Expense,2026-04
+TXN0240,2026-04-05,Food,Coffee,Bank Transfer,629.28,Expense,2026-04
+TXN0207,2026-04-05,Healthcare,Medicine,Credit Card,98.44,Expense,2026-04
+TXN0199,2026-04-06,Food,Groceries,Debit Card,203.28,Expense,2026-04
+TXN0196,2026-04-07,Other,Miscellaneous,Credit Card,1116.97,Expense,2026-04
+TXN0243,2026-04-08,Entertainment,Sports,UPI,509.1,Expense,2026-04
+TXN0208,2026-04-08,Rent,House Rent,UPI,1123.41,Expense,2026-04
+TXN0224,2026-04-09,Food,Coffee,Cash,928.86,Expense,2026-04
+TXN0249,2026-04-09,Entertainment,Games,UPI,98.44,Expense,2026-04
+TXN0200,2026-04-09,Transport,Metro,Credit Card,210.9,Expense,2026-04
+TXN0204,2026-04-09,Bills,Internet,UPI,743.08,Expense,2026-04
+TXN0251,2026-04-10,Rent,House Rent,UPI,274.41,Expense,2026-04
+TXN0242,2026-04-10,Food,Groceries,Credit Card,98.44,Expense,2026-04
+TXN0201,2026-04-10,Food,Restaurant,Bank Transfer,635.52,Expense,2026-04
+TXN0256,2026-04-11,Shopping,Accessories,UPI,238.74,Expense,2026-04
+TXN0238,2026-04-12,Shopping,Shoes,Bank Transfer,333.01,Expense,2026-04
+TXN0210,2026-04-13,Rent,House Rent,Bank Transfer,98.44,Expense,2026-04
+TXN0233,2026-04-14,Food,Groceries,Debit Card,1092.88,Expense,2026-04
+TXN0246,2026-04-14,Education,Study Material,Debit Card,1510.93,Expense,2026-04
+TXN0223,2026-04-15,Transport,Metro,Debit Card,514.9,Expense,2026-04
+TXN0237,2026-04-15,Shopping,Clothes,Bank Transfer,422.29,Expense,2026-04
+TXN0252,2026-04-15,Rent,House Rent,Credit Card,1669.64,Expense,2026-04
+TXN0216,2026-04-15,Food,Restaurant,Cash,578.0,Expense,2026-04
+TXN0247,2026-04-15,Rent,House Rent,Credit Card,1209.46,Expense,2026-04
+TXN0203,2026-04-16,Rent,House Rent,Cash,1070.83,Expense,2026-04
+TXN0231,2026-04-16,Shopping,Accessories,UPI,1773.46,Expense,2026-04
+TXN0229,2026-04-17,Food,Groceries,Cash,151.29,Expense,2026-04
+TXN0253,2026-04-18,Bills,Mobile Bill,Debit Card,1626.88,Expense,2026-04
+TXN0215,2026-04-18,Food,Groceries,Credit Card,390.65,Expense,2026-04
+TXN0212,2026-04-19,Entertainment,Sports,Debit Card,534.72,Expense,2026-04
+TXN0230,2026-04-19,Healthcare,Doctor Visit,Credit Card,137.32,Expense,2026-04
+TXN0206,2026-04-19,Food,Food Delivery,UPI,98.44,Expense,2026-04
+TXN0228,2026-04-19,Rent,House Rent,Debit Card,225.06,Expense,2026-04
+TXN0255,2026-04-19,Transport,Bus,Credit Card,171.23,Expense,2026-04
+TXN0226,2026-04-20,Entertainment,Sports,Debit Card,412.42,Expense,2026-04
+TXN0209,2026-04-20,Food,Food Delivery,Bank Transfer,457.81,Expense,2026-04
+TXN0232,2026-04-22,Shopping,Electronics,Debit Card,245.17,Expense,2026-04
+TXN0227,2026-04-22,Transport,Uber,Credit Card,98.44,Expense,2026-04
+TXN0219,2026-04-22,Education,Online Course,Bank Transfer,611.44,Expense,2026-04
+TXN0257,2026-04-22,Rent,House Rent,Cash,935.12,Expense,2026-04
+TXN0214,2026-04-22,Food,Groceries,Debit Card,98.44,Expense,2026-04
+TXN0197,2026-04-24,Food,Food Delivery,Debit Card,1132.51,Expense,2026-04
+TXN0236,2026-04-25,Transport,Auto,UPI,342.9,Expense,2026-04
+TXN0213,2026-04-25,Healthcare,Pharmacy,UPI,98.44,Expense,2026-04
+TXN0239,2026-04-25,Healthcare,Doctor Visit,Cash,106.64,Expense,2026-04
+TXN0222,2026-04-26,Food,Restaurant,Credit Card,673.76,Expense,2026-04
+TXN0221,2026-04-27,Entertainment,Games,Debit Card,193.25,Expense,2026-04
+TXN0205,2026-04-27,Other,Donation,UPI,504.36,Expense,2026-04
+TXN0198,2026-04-27,Entertainment,OTT Subscription,UPI,492.26,Expense,2026-04
+TXN0234,2026-04-27,Education,Online Course,Cash,489.64,Expense,2026-04
+TXN0211,2026-04-28,Bills,Water Bill,Debit Card,98.44,Expense,2026-04
+TXN0248,2026-04-30,Entertainment,Sports,Credit Card,226.96,Expense,2026-04
+TXN0250,2026-04-30,Rent,House Rent,Debit Card,1293.91,Expense,2026-04
+TXN0254,2026-04-30,Rent,House Rent,Cash,941.34,Expense,2026-04
+TXN0245,2026-04-30,Healthcare,Medicine,Cash,1385.01,Expense,2026-04
+TXN0315,2026-05-01,Healthcare,Pharmacy,Bank Transfer,212.15,Expense,2026-05
+TXN0283,2026-05-01,Entertainment,OTT Subscription,Debit Card,705.07,Expense,2026-05
+TXN0259,2026-05-01,Salary,Monthly Salary,Bank Transfer,58000.0,Income,2026-05
+TXN0267,2026-05-02,Transport,Fuel,Bank Transfer,3096.79,Expense,2026-05
+TXN0290,2026-05-03,Bills,Mobile Bill,Credit Card,579.93,Expense,2026-05
+TXN0314,2026-05-03,Transport,Uber,Cash,1065.04,Expense,2026-05
+TXN0298,2026-05-04,Shopping,Electronics,Bank Transfer,1161.56,Expense,2026-05
+TXN0304,2026-05-04,Education,Study Material,Cash,655.03,Expense,2026-05
+TXN0306,2026-05-05,Food,Groceries,Bank Transfer,98.98,Expense,2026-05
+TXN0316,2026-05-05,Food,Coffee,Credit Card,388.22,Expense,2026-05
+TXN0270,2026-05-06,Healthcare,Medicine,Cash,1409.58,Expense,2026-05
+TXN0291,2026-05-06,Travel,Train,Cash,98.98,Expense,2026-05
+TXN0274,2026-05-06,Entertainment,Games,Credit Card,299.22,Expense,2026-05
+TXN0302,2026-05-08,Other,Donation,Bank Transfer,987.12,Expense,2026-05
+TXN0268,2026-05-08,Entertainment,Games,Debit Card,101.37,Expense,2026-05
+TXN0276,2026-05-08,Transport,Metro,Credit Card,1113.21,Expense,2026-05
+TXN0277,2026-05-09,Bills,Mobile Bill,Cash,1115.87,Expense,2026-05
+TXN0284,2026-05-09,Other,Miscellaneous,Cash,813.09,Expense,2026-05
+TXN0271,2026-05-11,Education,Books,UPI,906.78,Expense,2026-05
+TXN0272,2026-05-12,Rent,House Rent,Debit Card,802.03,Expense,2026-05
+TXN0313,2026-05-13,Shopping,Electronics,UPI,261.97,Expense,2026-05
+TXN0281,2026-05-13,Transport,Auto,Credit Card,467.61,Expense,2026-05
+TXN0282,2026-05-13,Rent,House Rent,Credit Card,1075.31,Expense,2026-05
+TXN0299,2026-05-13,Bills,Mobile Bill,Bank Transfer,299.96,Expense,2026-05
+TXN0309,2026-05-14,Food,Food Delivery,Bank Transfer,681.44,Expense,2026-05
+TXN0307,2026-05-14,Shopping,Electronics,Bank Transfer,509.07,Expense,2026-05
+TXN0273,2026-05-14,Shopping,Shoes,Bank Transfer,814.26,Expense,2026-05
+TXN0305,2026-05-16,Food,Restaurant,Debit Card,98.98,Expense,2026-05
+TXN0263,2026-05-16,Healthcare,Medicine,UPI,799.84,Expense,2026-05
+TXN0292,2026-05-17,Food,Coffee,Bank Transfer,420.87,Expense,2026-05
+TXN0286,2026-05-20,Bills,Mobile Bill,Credit Card,1482.6,Expense,2026-05
+TXN0287,2026-05-20,Rent,House Rent,Credit Card,277.05,Expense,2026-05
+TXN0264,2026-05-20,Rent,House Rent,Debit Card,566.97,Expense,2026-05
+TXN0308,2026-05-21,Entertainment,Games,Cash,522.5,Expense,2026-05
+TXN0300,2026-05-22,Rent,House Rent,UPI,98.98,Expense,2026-05
+TXN0312,2026-05-22,Transport,Auto,UPI,487.83,Expense,2026-05
+TXN0278,2026-05-22,Healthcare,Doctor Visit,Debit Card,1355.4,Expense,2026-05
+TXN0275,2026-05-22,Food,Food Delivery,Bank Transfer,233.45,Expense,2026-05
+TXN0310,2026-05-23,Other,Donation,UPI,869.79,Expense,2026-05
+TXN0280,2026-05-23,Shopping,Electronics,Cash,480.98,Expense,2026-05
+TXN0294,2026-05-24,Rent,House Rent,Debit Card,226.78,Expense,2026-05
+TXN0285,2026-05-24,Food,Restaurant,Bank Transfer,1067.03,Expense,2026-05
+TXN0269,2026-05-25,Rent,House Rent,UPI,490.65,Expense,2026-05
+TXN0289,2026-05-26,Healthcare,Medicine,Debit Card,98.98,Expense,2026-05
+TXN0297,2026-05-26,Rent,House Rent,UPI,98.98,Expense,2026-05
+TXN0265,2026-05-28,Education,Study Material,UPI,98.98,Expense,2026-05
+TXN0260,2026-05-28,Bills,Mobile Bill,UPI,124.74,Expense,2026-05
+TXN0262,2026-05-28,Bills,Internet,Cash,1847.97,Expense,2026-05
+TXN0288,2026-05-29,Transport,Bus,UPI,316.31,Expense,2026-05
+TXN0301,2026-05-29,Transport,Uber,Bank Transfer,496.13,Expense,2026-05
+TXN0293,2026-05-30,Travel,Hotel,Debit Card,525.45,Expense,2026-05
+TXN0303,2026-05-30,Healthcare,Pharmacy,Cash,163.3,Expense,2026-05
+TXN0261,2026-05-30,Rent,House Rent,Bank Transfer,546.56,Expense,2026-05
+TXN0295,2026-05-31,Rent,House Rent,Cash,600.23,Expense,2026-05
+TXN0296,2026-05-31,Food,Groceries,Cash,98.98,Expense,2026-05
+TXN0311,2026-05-31,Shopping,Accessories,Cash,2501.01,Expense,2026-05
+TXN0279,2026-05-31,Entertainment,Movies,Cash,1641.98,Expense,2026-05
+TXN0266,2026-05-31,Transport,Metro,Cash,641.13,Expense,2026-05
+TXN0351,2026-06-01,Healthcare,Pharmacy,Debit Card,335.71,Expense,2026-06
+TXN0317,2026-06-01,Salary,Monthly Salary,Bank Transfer,58000.0,Income,2026-06
+TXN0366,2026-06-01,Transport,Auto,UPI,565.82,Expense,2026-06
+TXN0370,2026-06-01,Rent,House Rent,Cash,520.94,Expense,2026-06
+TXN0327,2026-06-02,Food,Groceries,Bank Transfer,526.2,Expense,2026-06
+TXN0374,2026-06-03,Rent,House Rent,Debit Card,1556.95,Expense,2026-06
+TXN0354,2026-06-03,Shopping,Shoes,UPI,97.68,Expense,2026-06
+TXN0341,2026-06-03,Education,Online Course,UPI,97.68,Expense,2026-06
+TXN0361,2026-06-04,Bills,Mobile Bill,Cash,97.68,Expense,2026-06
+TXN0342,2026-06-04,Rent,House Rent,Cash,97.68,Expense,2026-06
+TXN0380,2026-06-04,Rent,House Rent,Credit Card,758.72,Expense,2026-06
+TXN0322,2026-06-05,Rent,House Rent,UPI,786.3,Expense,2026-06
+TXN0357,2026-06-05,Rent,House Rent,UPI,461.91,Expense,2026-06
+TXN0340,2026-06-05,Transport,Auto,Debit Card,97.68,Expense,2026-06
+TXN0367,2026-06-05,Bills,Water Bill,Credit Card,324.46,Expense,2026-06
+TXN0324,2026-06-05,Food,Coffee,UPI,125.68,Expense,2026-06
+TXN0373,2026-06-06,Food,Restaurant,Debit Card,2145.71,Expense,2026-06
+TXN0364,2026-06-07,Other,Gift,UPI,582.04,Expense,2026-06
+TXN0318,2026-06-07,Food,Groceries,Bank Transfer,97.68,Expense,2026-06
+TXN0349,2026-06-08,Food,Coffee,Bank Transfer,125.61,Expense,2026-06
+TXN0347,2026-06-08,Bills,Internet,Cash,446.77,Expense,2026-06
+TXN0332,2026-06-09,Entertainment,Movies,Credit Card,884.29,Expense,2026-06
+TXN0321,2026-06-09,Other,Gift,Bank Transfer,1193.86,Expense,2026-06
+TXN0358,2026-06-09,Food,Restaurant,UPI,1282.07,Expense,2026-06
+TXN0334,2026-06-10,Transport,Metro,Bank Transfer,624.76,Expense,2026-06
+TXN0345,2026-06-10,Shopping,Accessories,UPI,424.5,Expense,2026-06
+TXN0372,2026-06-10,Shopping,Accessories,Cash,322.23,Expense,2026-06
+TXN0356,2026-06-10,Bills,Internet,Debit Card,649.26,Expense,2026-06
+TXN0377,2026-06-11,Transport,Auto,Credit Card,97.68,Expense,2026-06
+TXN0331,2026-06-11,Travel,Flight,UPI,2046.0,Expense,2026-06
+TXN0323,2026-06-11,Food,Groceries,Bank Transfer,347.28,Expense,2026-06
+TXN0352,2026-06-12,Food,Coffee,Debit Card,631.82,Expense,2026-06
+TXN0348,2026-06-12,Rent,House Rent,Bank Transfer,423.62,Expense,2026-06
+TXN0379,2026-06-12,Food,Groceries,Debit Card,97.68,Expense,2026-06
+TXN0363,2026-06-13,Healthcare,Medicine,Credit Card,97.68,Expense,2026-06
+TXN0369,2026-06-13,Rent,House Rent,UPI,404.8,Expense,2026-06
+TXN0338,2026-06-13,Transport,Auto,Cash,936.57,Expense,2026-06
+TXN0355,2026-06-14,Rent,House Rent,Cash,309.98,Expense,2026-06
+TXN0339,2026-06-14,Shopping,Clothes,Debit Card,97.68,Expense,2026-06
+TXN0375,2026-06-14,Shopping,Clothes,Credit Card,143.9,Expense,2026-06
+TXN0344,2026-06-14,Food,Coffee,UPI,803.21,Expense,2026-06
+TXN0325,2026-06-16,Rent,House Rent,UPI,112.35,Expense,2026-06
+TXN0362,2026-06-17,Transport,Metro,Cash,679.15,Expense,2026-06
+TXN0368,2026-06-18,Shopping,Shoes,Bank Transfer,680.76,Expense,2026-06
+TXN0343,2026-06-18,Rent,House Rent,Credit Card,1277.35,Expense,2026-06
+TXN0326,2026-06-19,Bills,Mobile Bill,Bank Transfer,190.2,Expense,2026-06
+TXN0371,2026-06-19,Bills,Electricity,Debit Card,1874.31,Expense,2026-06
+TXN0346,2026-06-19,Entertainment,OTT Subscription,UPI,97.68,Expense,2026-06
+TXN0381,2026-06-20,Food,Groceries,Credit Card,97.68,Expense,2026-06
+TXN0359,2026-06-20,Bills,Water Bill,Cash,709.92,Expense,2026-06
+TXN0328,2026-06-21,Rent,House Rent,Cash,828.05,Expense,2026-06
+TXN0378,2026-06-21,Rent,House Rent,Bank Transfer,97.68,Expense,2026-06
+TXN0353,2026-06-22,Food,Groceries,Bank Transfer,665.76,Expense,2026-06
+TXN0330,2026-06-23,Shopping,Clothes,Cash,216.88,Expense,2026-06
+TXN0333,2026-06-23,Healthcare,Pharmacy,Bank Transfer,533.76,Expense,2026-06
+TXN0336,2026-06-24,Education,Study Material,Bank Transfer,187.99,Expense,2026-06
+TXN0365,2026-06-25,Transport,Bus,Credit Card,1860.52,Expense,2026-06
+TXN0319,2026-06-25,Rent,House Rent,Debit Card,97.68,Expense,2026-06
+TXN0360,2026-06-25,Bills,Mobile Bill,Credit Card,117.45,Expense,2026-06
+TXN0335,2026-06-26,Bills,Water Bill,UPI,359.28,Expense,2026-06
+TXN0329,2026-06-28,Other,Gift,Cash,712.83,Expense,2026-06
+TXN0376,2026-06-28,Entertainment,Movies,Cash,97.68,Expense,2026-06
+TXN0320,2026-06-28,Food,Restaurant,Debit Card,2171.0,Expense,2026-06
+TXN0337,2026-06-29,Rent,House Rent,Cash,290.59,Expense,2026-06
+TXN0350,2026-06-30,Rent,House Rent,Bank Transfer,375.7,Expense,2026-06
+TXN0382,2026-07-01,Salary,Monthly Salary,Bank Transfer,60000.0,Income,2026-07
+TXN0436,2026-07-01,Education,Online Course,Bank Transfer,271.64,Expense,2026-07
+TXN0439,2026-07-02,Transport,Auto,UPI,900.92,Expense,2026-07
+TXN0390,2026-07-02,Food,Food Delivery,Cash,623.1,Expense,2026-07
+TXN0404,2026-07-03,Rent,House Rent,Debit Card,1228.63,Expense,2026-07
+TXN0409,2026-07-03,Education,Study Material,Bank Transfer,1463.45,Expense,2026-07
+TXN0427,2026-07-03,Food,Restaurant,Debit Card,877.3,Expense,2026-07
+TXN0406,2026-07-05,Other,Miscellaneous,Cash,873.49,Expense,2026-07
+TXN0434,2026-07-05,Education,Online Course,Credit Card,366.14,Expense,2026-07
+TXN0437,2026-07-07,Travel,Flight,Debit Card,99.03,Expense,2026-07
+TXN0412,2026-07-08,Food,Food Delivery,Credit Card,242.44,Expense,2026-07
+TXN0403,2026-07-09,Food,Food Delivery,Debit Card,1678.21,Expense,2026-07
+TXN0405,2026-07-10,Entertainment,Games,Debit Card,352.19,Expense,2026-07
+TXN0413,2026-07-10,Other,Gift,UPI,1419.67,Expense,2026-07
+TXN0402,2026-07-11,Entertainment,OTT Subscription,UPI,261.92,Expense,2026-07
+TXN0421,2026-07-12,Transport,Fuel,Credit Card,535.49,Expense,2026-07
+TXN0410,2026-07-12,Healthcare,Doctor Visit,Bank Transfer,442.29,Expense,2026-07
+TXN0432,2026-07-12,Shopping,Accessories,UPI,99.03,Expense,2026-07
+TXN0416,2026-07-13,Rent,House Rent,Bank Transfer,1481.97,Expense,2026-07
+TXN0418,2026-07-14,Travel,Vacation,UPI,241.76,Expense,2026-07
+TXN0422,2026-07-15,Education,Study Material,Cash,628.02,Expense,2026-07
+TXN0387,2026-07-15,Other,Donation,Credit Card,208.09,Expense,2026-07
+TXN0396,2026-07-15,Bills,Internet,UPI,872.85,Expense,2026-07
+TXN0394,2026-07-15,Other,Miscellaneous,UPI,208.25,Expense,2026-07
+TXN0431,2026-07-17,Food,Restaurant,Cash,428.67,Expense,2026-07
+TXN0423,2026-07-17,Rent,House Rent,Bank Transfer,373.97,Expense,2026-07
+TXN0389,2026-07-17,Transport,Uber,Debit Card,749.91,Expense,2026-07
+TXN0397,2026-07-17,Food,Coffee,UPI,1033.4,Expense,2026-07
+TXN0399,2026-07-17,Shopping,Accessories,Bank Transfer,334.42,Expense,2026-07
+TXN0407,2026-07-18,Entertainment,Movies,Debit Card,882.82,Expense,2026-07
+TXN0393,2026-07-18,Bills,Water Bill,Bank Transfer,1022.58,Expense,2026-07
+TXN0420,2026-07-18,Transport,Fuel,Credit Card,1890.52,Expense,2026-07
+TXN0395,2026-07-20,Travel,Hotel,Debit Card,122.77,Expense,2026-07
+TXN0392,2026-07-20,Rent,House Rent,Bank Transfer,834.84,Expense,2026-07
+TXN0419,2026-07-20,Shopping,Shoes,Cash,1883.62,Expense,2026-07
+TXN0425,2026-07-21,Entertainment,OTT Subscription,UPI,250.45,Expense,2026-07
+TXN0385,2026-07-21,Entertainment,Sports,Bank Transfer,99.03,Expense,2026-07
+TXN0391,2026-07-21,Food,Coffee,UPI,1319.5,Expense,2026-07
+TXN0401,2026-07-22,Transport,Fuel,Debit Card,941.48,Expense,2026-07
+TXN0408,2026-07-22,Shopping,Electronics,Credit Card,99.03,Expense,2026-07
+TXN0398,2026-07-23,Healthcare,Medicine,Credit Card,2926.97,Expense,2026-07
+TXN0414,2026-07-25,Rent,House Rent,Bank Transfer,309.85,Expense,2026-07
+TXN0384,2026-07-25,Rent,House Rent,Cash,1171.24,Expense,2026-07
+TXN0435,2026-07-25,Food,Food Delivery,Credit Card,1374.31,Expense,2026-07
+TXN0438,2026-07-25,Rent,House Rent,UPI,99.03,Expense,2026-07
+TXN0417,2026-07-26,Food,Groceries,Bank Transfer,99.03,Expense,2026-07
+TXN0388,2026-07-26,Food,Food Delivery,Debit Card,99.03,Expense,2026-07
+TXN0424,2026-07-26,Shopping,Shoes,Credit Card,218.11,Expense,2026-07
+TXN0433,2026-07-27,Transport,Auto,UPI,501.21,Expense,2026-07
+TXN0386,2026-07-28,Healthcare,Pharmacy,Debit Card,1058.74,Expense,2026-07
+TXN0415,2026-07-29,Bills,Electricity,Debit Card,99.03,Expense,2026-07
+TXN0428,2026-07-29,Rent,House Rent,Cash,985.62,Expense,2026-07
+TXN0426,2026-07-30,Bills,Mobile Bill,Bank Transfer,701.62,Expense,2026-07
+TXN0430,2026-07-30,Travel,Vacation,Debit Card,99.03,Expense,2026-07
+TXN0400,2026-07-30,Entertainment,OTT Subscription,Debit Card,292.41,Expense,2026-07
+TXN0411,2026-07-31,Food,Coffee,Credit Card,1100.73,Expense,2026-07
+TXN0429,2026-07-31,Bills,Water Bill,UPI,979.74,Expense,2026-07
+TXN0383,2026-07-31,Rent,House Rent,Credit Card,241.45,Expense,2026-07
+TXN0440,2026-08-01,Salary,Monthly Salary,Bank Transfer,60000.0,Income,2026-08
+TXN0452,2026-08-03,Bills,Internet,Credit Card,243.04,Expense,2026-08
+TXN0464,2026-08-04,Food,Coffee,Debit Card,356.13,Expense,2026-08
+TXN0481,2026-08-04,Transport,Fuel,Credit Card,97.73,Expense,2026-08
+TXN0441,2026-08-04,Shopping,Accessories,UPI,505.4,Expense,2026-08
+TXN0458,2026-08-04,Rent,House Rent,Debit Card,97.73,Expense,2026-08
+TXN0471,2026-08-05,Rent,House Rent,UPI,719.38,Expense,2026-08
+TXN0472,2026-08-05,Rent,House Rent,UPI,459.55,Expense,2026-08
+TXN0474,2026-08-05,Other,Gift,Bank Transfer,246.58,Expense,2026-08
+TXN0489,2026-08-05,Entertainment,Sports,Bank Transfer,521.0,Expense,2026-08
+TXN0482,2026-08-06,Food,Restaurant,Cash,1164.01,Expense,2026-08
+TXN0460,2026-08-06,Shopping,Accessories,Debit Card,429.01,Expense,2026-08
+TXN0487,2026-08-08,Transport,Bus,Credit Card,1828.42,Expense,2026-08
+TXN0447,2026-08-09,Bills,Water Bill,Debit Card,642.96,Expense,2026-08
+TXN0490,2026-08-10,Entertainment,Movies,UPI,624.54,Expense,2026-08
+TXN0443,2026-08-10,Food,Groceries,Credit Card,97.73,Expense,2026-08
+TXN0453,2026-08-10,Education,Online Course,UPI,879.46,Expense,2026-08
+TXN0492,2026-08-11,Rent,House Rent,Credit Card,518.4,Expense,2026-08
+TXN0454,2026-08-11,Food,Groceries,UPI,1544.25,Expense,2026-08
+TXN0497,2026-08-11,Food,Groceries,Credit Card,1576.7,Expense,2026-08
+TXN0450,2026-08-12,Rent,House Rent,UPI,2265.04,Expense,2026-08
+TXN0448,2026-08-12,Rent,House Rent,UPI,97.73,Expense,2026-08
+TXN0476,2026-08-12,Rent,House Rent,Bank Transfer,1065.22,Expense,2026-08
+TXN0445,2026-08-12,Shopping,Clothes,Bank Transfer,97.73,Expense,2026-08
+TXN0473,2026-08-13,Food,Coffee,Debit Card,1718.79,Expense,2026-08
+TXN0491,2026-08-14,Shopping,Accessories,Bank Transfer,318.14,Expense,2026-08
+TXN0468,2026-08-14,Rent,House Rent,Bank Transfer,97.73,Expense,2026-08
+TXN0465,2026-08-15,Food,Coffee,Debit Card,97.73,Expense,2026-08
+TXN0475,2026-08-15,Education,Online Course,Debit Card,176.6,Expense,2026-08
+TXN0486,2026-08-17,Food,Groceries,Debit Card,423.63,Expense,2026-08
+TXN0478,2026-08-17,Food,Groceries,Cash,1733.57,Expense,2026-08
+TXN0495,2026-08-17,Entertainment,Games,Cash,97.73,Expense,2026-08
+TXN0496,2026-08-17,Travel,Flight,UPI,173.12,Expense,2026-08
+TXN0442,2026-08-18,Rent,House Rent,Bank Transfer,97.73,Expense,2026-08
+TXN0488,2026-08-18,Rent,House Rent,Debit Card,388.64,Expense,2026-08
+TXN0444,2026-08-19,Shopping,Electronics,Credit Card,633.62,Expense,2026-08
+TXN0480,2026-08-20,Transport,Fuel,Credit Card,1838.36,Expense,2026-08
+TXN0494,2026-08-21,Bills,Internet,Bank Transfer,1214.67,Expense,2026-08
+TXN0469,2026-08-22,Transport,Uber,UPI,97.73,Expense,2026-08
+TXN0493,2026-08-22,Healthcare,Doctor Visit,Cash,460.74,Expense,2026-08
+TXN0484,2026-08-23,Education,Online Course,Debit Card,2601.68,Expense,2026-08
+TXN0466,2026-08-23,Entertainment,Sports,Credit Card,331.9,Expense,2026-08
+TXN0451,2026-08-23,Entertainment,Games,Cash,246.08,Expense,2026-08
+TXN0449,2026-08-24,Transport,Uber,Bank Transfer,97.73,Expense,2026-08
+TXN0462,2026-08-24,Rent,House Rent,UPI,1243.01,Expense,2026-08
+TXN0467,2026-08-24,Bills,Water Bill,UPI,97.73,Expense,2026-08
+TXN0459,2026-08-24,Rent,House Rent,Cash,787.95,Expense,2026-08
+TXN0479,2026-08-25,Shopping,Clothes,Debit Card,97.73,Expense,2026-08
+TXN0499,2026-08-25,Food,Restaurant,UPI,500.0,Expense,2026-08
+TXN0456,2026-08-25,Entertainment,OTT Subscription,UPI,734.76,Expense,2026-08
+TXN0483,2026-08-26,Rent,House Rent,UPI,393.73,Expense,2026-08
+TXN0470,2026-08-26,Healthcare,Doctor Visit,Bank Transfer,549.83,Expense,2026-08
+TXN0463,2026-08-27,Shopping,Accessories,Bank Transfer,97.73,Expense,2026-08
+TXN0455,2026-08-27,Other,Miscellaneous,Cash,2240.54,Expense,2026-08
+TXN0446,2026-08-28,Food,Restaurant,Cash,905.49,Expense,2026-08
+TXN0457,2026-08-28,Healthcare,Doctor Visit,Debit Card,247.75,Expense,2026-08
+TXN0485,2026-08-28,Food,Coffee,Debit Card,97.73,Expense,2026-08
+TXN0500,2026-08-28,Transport,Uber,UPI,300.0,Expense,2026-08
+TXN0461,2026-08-30,Bills,Water Bill,Debit Card,289.74,Expense,2026-08
+TXN0477,2026-08-31,Shopping,Electronics,Credit Card,132.83,Expense,2026-08
+TXN0498,2026-08-31,Other,Gift,Debit Card,1159.79,Expense,2026-08
